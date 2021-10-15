@@ -11,7 +11,7 @@ def index():
 @app.route('/users/<user_id>', methods = ['GET', 'POST', 'DELETE'])
 def getuser(user_id):
     if request.method == 'GET':
-        return ""
+        return "Hola Mundo"
     if request.method == 'POST':
         return ""
     if request.method == 'DELETE':
