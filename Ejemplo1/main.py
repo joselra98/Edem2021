@@ -1,4 +1,6 @@
+import time
+from datetime import datetime 
 
 while True:
-    # Print current time and sleep 1 minute
-    print("")
+  print(datetime.now())
+  time.sleep(60)
