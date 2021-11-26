@@ -1,0 +1,50 @@
+describe keyspaces;
+
+
+describe tables;
+
+
+
+
+CREATE TABLE edem.mensajesenviados (
+name text,
+name_id uuid,
+message text,
+message_id uuid,
+time timeuuid,
+PRIMARY KEY(name_id,time));
+
+
+CREATE TABLE edem.mensajesrecibidos (
+name text,
+name_id uuid,
+message text,
+message_id uuid,
+time timeuuid,
+PRIMARY KEY(name_id,time));
+
+
+CREATE TABLE edem.grupos (
+message_id uuid,
+message text,
+group_name text,
+group_id uuid,
+time timeuuid,
+PRIMARY KEY(group_id,time));
+
+
+CREATE TABLE edem.people (
+name text,
+name_id uuid,
+group_name text,
+group_id uuid,
+time timeuuid,
+PRIMARY KEY(group_id,time));
+
+
+insert into edem.mensajesenviados (name, name_id, message, message_id, time) values ('Malena M', uuid(), 'Hola, que tal?', uuid(), now());
+insert into edem.mensajesenviados (name, name_id, message, message_id, time) values ('Laura M', uuid(), 'Holaa', uuid(), now());
+insert into edem.mensajesenviados (name, name_id, message, message_id, time) values ('Carla P', uuid(), 'Hola', uuid(), now());
+
+
+select * from edem.mensajesenviados;
