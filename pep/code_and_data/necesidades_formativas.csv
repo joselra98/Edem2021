@@ -1,0 +1,134 @@
+Genero;Edad;Situacion_laboral;Regimen_autonomo;Ta_empresa;Provincia;pref_mod
+Femenino;25;Socio;1;1;2;4
+Femenino;26;Socio;1;1;3;1
+Femenino;27;Socio;2;2;1;4
+Femenino;38;Socio;1;1;1;3
+Femenino;36;Socio;1;1;3;3
+Femenino;32;Socio;1;2;1;4
+Femenino;33;Socio;2;2;2;3
+Femenino;33;Socio;2;2;1;2
+Femenino;35;Socio;2;2;2;1
+Femenino;34;Socio;2;2;2;1
+Femenino;37;Socio;2;2;1;3
+Femenino;35;Socio;1;2;2;4
+Femenino;35;Socio;1;2;1;3
+Femenino;39;Socio;1;2;2;1
+Femenino;31;Socio;2;3;1;2
+Femenino;32;Socio;2;3;1;1
+Femenino;33;Socio;1;4;1;1
+Femenino;34;Socio;1;4;1;2
+Femenino;35;Socio;1;4;3;1
+Femenino;48;Socio;1;1;1;3
+Femenino;44;Socio;1;2;2;1
+Femenino;45;Socio;2;2;2;2
+Femenino;43;Socio;2;2;1;3
+Femenino;42;Socio;2;2;1;1
+Femenino;49;Socio;2;2;1;3
+Femenino;48;Socio;2;2;2;4
+Femenino;45;Socio;2;2;1;4
+Femenino;46;Socio;2;2;1;1
+Femenino;46;Socio;2;2;1;2
+Femenino;42;Socio;2;2;1;1
+Femenino;47;Socio;2;2;2;2
+Femenino;44;Socio;2;2;1;3
+Femenino;42;Socio;2;2;3;1
+Femenino;41;Socio;1;2;2;1
+Femenino;45;Socio;2;3;2;2
+Femenino;50;Socio;1;3;1;3
+Femenino;48;Socio;1;3;1;2
+Femenino;46;Socio;2;3;2;1
+Femenino;43;Socio;2;3;1;1
+Femenino;42;Socio;2;3;2;4
+Femenino;46;Socio;2;3;1;3
+Femenino;41;Socio;2;3;1;1
+Femenino;47;Socio;2;3;1;2
+Femenino;48;Socio;2;3;1;3
+Femenino;49;Socio;2;3;1;4
+Femenino;44;Socio;2;3;1;3
+Femenino;47;Socio;2;3;1;2
+Femenino;50;Socio;2;3;1;3
+Femenino;43;Socio;2;4;1;2
+Femenino;44;Socio;1;4;1;1
+Femenino;46;Socio;1;4;1;2
+Femenino;48;Socio;2;4;1;1
+Femenino;60;Socio;1;1;1;4
+Femenino;59;Socio;2;1;1;4
+Femenino;52;Socio;1;2;1;1
+Femenino;51;Socio;1;2;2;4
+Femenino;55;Socio;1;2;1;4
+Femenino;56;Socio;2;2;1;3
+Femenino;52;Socio;2;2;1;3
+Femenino;52;Socio;2;2;1;2
+Femenino;54;Socio;2;2;1;3
+Femenino;58;Socio;2;2;1;2
+Femenino;56;Socio;2;3;2;4
+Femenino;55;Socio;2;3;1;1
+Femenino;60;Socio;2;3;1;1
+Femenino;53;Socio;2;3;1;4
+Femenino;53;Socio;2;3;1;3
+Femenino;52;Socio;2;3;1;1
+Femenino;51;Socio;2;3;1;4
+Femenino;59;Socio;2;4;1;4
+Femenino;58;Socio;1;4;1;3
+Femenino;54;Socio;1;4;1;3
+Femenino;59;Socio;2;4;1;1
+Femenino;60;Socio;2;4;1;1
+Femenino;54;Socio;2;4;1;2
+Femenino;62;Socio;1;1;1;2
+Femenino;64;Socio;2;2;1;3
+Femenino;65;Socio;1;2;1;3
+Femenino;62;Socio;1;2;1;1
+Masculino;37;Socio;2;2;1;2
+Masculino;39;Socio;2;2;2;1
+Masculino;38;Socio;2;3;1;1
+Masculino;39;Socio;1;4;3;1
+Masculino;41;Socio;2;2;1;1
+Masculino;50;Socio;2;2;1;3
+Masculino;50;Socio;2;2;1;3
+Masculino;45;Socio;2;2;1;1
+Masculino;45;Socio;1;3;1;3
+Masculino;50;Socio;2;3;1;2
+Masculino;45;Socio;1;3;1;4
+Masculino;43;Socio;2;3;2;1
+Masculino;42;Socio;2;3;1;1
+Masculino;46;Socio;1;4;1;3
+Masculino;45;Socio;1;4;1;2
+Masculino;49;Socio;1;4;1;3
+Masculino;48;Socio;1;4;1;3
+Masculino;47;Socio;2;4;1;1
+Masculino;54;Socio;1;2;2;3
+Masculino;59;Socio;2;2;1;1
+Masculino;60;Socio;1;2;2;1
+Masculino;58;Socio;2;2;1;2
+Masculino;54;Socio;2;3;2;1
+Masculino;52;Socio;2;3;1;3
+Masculino;51;Socio;1;3;1;3
+Masculino;59;Socio;1;4;1;1
+Masculino;61;Socio;2;2;1;4
+Masculino;62;Socio;2;2;1;2
+Masculino;64;Socio;2;3;1;2
+Masculino;63;Socio;2;3;1;3
+Masculino;63;Socio;1;4;1;3
+Masculino;64;Socio;1;4;1;3
+Prefiero no decirlo;66;Socio;2;2;1;1
+Femenino;29;Trabajador Eventual;2;2;1;2
+Femenino;26;Trabajador Eventual;2;2;1;2
+Femenino;28;Trabajador Eventual;2;2;2;1
+Femenino;24;Trabajador Eventual;2;3;1;3
+Femenino;32;Trabajador Eventual;2;2;1;4
+Femenino;43;Trabajador Eventual;2;2;1;1
+Femenino;31;Trabajador Fijo;2;2;1;1
+Femenino;36;Trabajador Fijo;2;2;2;3
+Femenino;34;Trabajador Fijo;2;2;1;1
+Femenino;39;Trabajador Fijo;2;3;1;1
+Femenino;43;Trabajador Fijo;2;2;2;2
+Femenino;42;Trabajador Fijo;2;2;1;1
+Femenino;41;Trabajador Fijo;2;2;1;1
+Femenino;49;Trabajador Fijo;2;2;1;1
+Femenino;48;Trabajador Fijo;2;2;1;3
+Femenino;43;Trabajador Fijo;2;4;1;3
+Femenino;58;Trabajador Fijo;2;2;1;1
+Femenino;57;Trabajador Fijo;2;2;1;3
+Femenino;55;Trabajador Fijo;2;3;1;2
+Femenino;65;Trabajador Fijo;2;2;1;3
+Masculino;44;Trabajador Fijo;2;2;1;1

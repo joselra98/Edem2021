@@ -67,14 +67,18 @@ plt.text (6500,110, textstr)
 # Add reference lines and store their names in label for later legend
 plt.axvline(x=4504, linewidth=1, linestyle= 'solid', color="red", label='Mean')
 
+m= {'Mean'}
+sd= {'S.D.'}
+n= {'n'}
+
 #histogram ver3
 plt.hist(x, bins=10, edgecolor='black')
 plt.xticks(np.arange(0, 10000, step=1000))
-plt.title('Figure 3. Daily Bicycle rentals in Washington DC'
-'\n'
-'by Capital bikeshare. 2011 - 2012')
-plt.ylabel('Frecuency')
-plt.xlabel('Number of rented bicycles')
+plt.title('Figure 1. Daily Bicycle rentals in Washington DC'
+          '\n'
+          'by Capital bikeshare.2011 - 2012')
+plt.ylabel('Frecuencia')
+plt.xlabel('Edad')
 
 props = dict(boxstyle='round', facecolor='white',lw=0.5)
 textstr = '$\mathrm{Mean}=%.1f$\n$\mathrm{S.D.}=%.1f$\n$\mathrm{n}=%.0f$'%(m, sd, n)
