@@ -6,7 +6,7 @@ Created on Thu Nov 25 18:19:24 2021
 """
 
 #Resets ALL (Careful This is a "magic" function then it doesn't run as script) 
-#reset -f   
+reset -f   
 
 #load basiclibraries
 import os

@@ -4,7 +4,7 @@ Created on Thu Dec  9 19:05:28 2021
 
 @author: Jose
 """
-
+reset -f
 #load basiclibraries
 import os
 import numpy as np
@@ -29,7 +29,7 @@ wbr.head()
 
 
 #La temperatura va tener un impacto en las ventas. 
-x=wbr['temp_celsius']
+x=wbr['cnt']
 plt.hist(x, bins=10, edgecolor='black')
 
 #El clima en washintong está muy polarizado, es decir, hay dos temporadas hay días frías y días calidos
