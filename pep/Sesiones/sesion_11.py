@@ -186,6 +186,9 @@ print(model8.summary2())
 
 
 
+MIRAR DROP NA 
+
+
 
 
 
